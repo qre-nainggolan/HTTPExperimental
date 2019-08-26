@@ -1,0 +1,1 @@
+SELECT Estate, YEAR(InspectionDate) AS Year,MONTH(InspectionDate) AS Month, DAY(InspectionDate) AS DAY, InspectionDate, Shift, Employee1 AS Petugas1, Employee2 AS Petugas2 FROM aa_tblcontrol WHERE estate = 'KAT' AND YEAR(InspectionDate) = '2019' AND Month(InspectionDate) = '06' ORDER BY InspectionDate DESC LIMIT 0,100
