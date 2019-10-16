@@ -2,3 +2,16 @@ SELECT Estate, YEAR(InspectionDate) AS Year, MONTH(InspectionDate) AS Month, DAY
 
 
 https://www.oracle.com/technetwork/database/windows/utilsoft-096155.html
+
+
+
+
+
+Kindly, berikut ID mac address wifinya KTP pa.. 
+
+HP01 _20:34:fb:f1:5b:fc_
+HP02 _20:34:fb:f1:58:b4_
+HP03 _20:34:fb:f1:50:40_
+HP04 _20:34:fb:f1:77:fc_
+HP05 _20:34:fb:f1:4f:e6_
+HP06 _20:34:fb:f1:6e:80_
